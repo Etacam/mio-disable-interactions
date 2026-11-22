@@ -1,0 +1,8 @@
+{
+    "id": "io.github.mio-modding.disable-interactions",
+    "name": "Disable Interactions",
+    "main": "DisableInteractions.dll",
+    "dependencies": [
+        "io.github.mio-modding.mio-modding-api"
+    ]
+}
