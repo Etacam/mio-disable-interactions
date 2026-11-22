@@ -6,7 +6,7 @@ namespace = "Etacam"
 name = "DisableInteractions"
 versionNumber = "0.0.1"
 description = "Adds options to disable most interactions"
-websiteUrl = "https://thunderstore.io"
+websiteUrl = "https://github.com/Etacam/mio-disable-interactions"
 containsNsfwContent = false
 
 [package.dependencies]
